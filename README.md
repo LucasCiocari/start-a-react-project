@@ -10,4 +10,5 @@ create .babelrc
 create index.html
 create index.js
 create index.scss
+npm install --save-dev babel-plugin-transform-class-properties
 ```
