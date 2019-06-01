@@ -11,4 +11,5 @@ create index.html
 create index.js
 create index.scss
 npm install --save-dev babel-plugin-transform-class-properties
+npm i --save-dev --save-exact prettier
 ```
