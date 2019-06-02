@@ -10,7 +10,8 @@ create .babelrc
 create index.html
 create index.js
 create index.scss
-npm install --save-dev babel-plugin-transform-class-properties
-npm i --save-dev --save-exact prettier
-npm i classnames
+npm install --save-dev babel-plugin-transform-class-properties // poder usar state sem mexer no construtor
+npm i --save-dev --save-exact prettier                         // identador
+npm i classnames                                               // para usar nomes de classe no sass? 
+npm i uuid                                                     // Para datas
 ```
